@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Dheerajsingh0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👍 I currently working on Salesforce platform and machine learning
+- 👀 I’m interested in ... Coding, travelling listening music
+- 🌱 I’m currently learning ... full stack web developer and machine learning with python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me "dheerajkumarblr@gmail.com"
 
-<!---
-Dheerajsingh0/Dheerajsingh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=Dheerajsingh0&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
