@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dheerajsingh0
-- 👍 I currently working on Salesforce platform and machine learning
+- 👍 I currently working on Salesforce Developer and machine learning
 - 👀 I’m interested in ... Coding, travelling listening music
 - 🌱 I’m currently learning ... full stack web developer and machine learning with python
 - 💞️ I’m looking to collaborate on ...
