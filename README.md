@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Dheerajsingh0
+-    Done my intership on nextJS (front-end) and Fastapi -Python (Backend) MongoDB
 - 👍 I am full stack Developer currently working on full stack Salesforce Developer and machine learning
 - 👀 I’m interested in ... Coding, travelling listening music
 - 🌱 I’m currently learning ... full stack web developer and machine learning with python
