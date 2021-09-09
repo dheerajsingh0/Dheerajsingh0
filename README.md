@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @Dheerajsingh0 -->
 - ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Dheeraj 
--    Done my intership on nextJS (front-end) and Fastapi -Python (Backend) MongoDB
+-    Done my intership on NextJS (front-end) and Fastapi -Python (Backend) MongoDB
 - 👍 I am full stack Developer currently working on full stack Salesforce Developer and machine learning
 - 👀 I’m interested in ... Coding, travelling listening music
 - 🌱 I’m currently learning ... full stack web developer and machine learning with python
@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/sdedj/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<!-- <a href="https://twitter.com/kunalstwt">
+<!-- <a href="https://twitter.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
 <a href="mailto:dheerajkumarblr@gmail.com">
@@ -23,6 +23,7 @@
 
 <br />
 
-### About Me 🚀
+<!-- ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+ -->
