@@ -23,7 +23,9 @@
 <a href="mailto:dheerajkumarblr@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-[![An image of @dheerajsingh0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dheerajsingh0)](https://holopin.io/@dheerajsingh0)
+<br/>
+
+https://www.holopin.io/userbadge/cln95mtz4220600fjv3hfgiac0
 
 <br />
 
